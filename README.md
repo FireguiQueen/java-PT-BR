@@ -5,14 +5,24 @@ Bem-vindo ao meu repositório de __Java__! Aqui, compartilho cursos, explicaçõ
 
 Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. 
 
-<q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilhada.</q> Aproveite! =)
+_<q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilhada.</q>_ Aproveite! =)
 
-## Como os cursos foram escolhidos?
+## 🔎 Como os cursos foram escolhidos?
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode, Trybe, etc. 
->  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado. Mas a partir de certo ponto, a evolução só será possível através de projetos pessoais que agreguem valor à uma pessoa, seja a você ou a outros usuários. 
+
+### Cursos são necessários?
+__Não__. Um curso nada mais é do que um material didático organizado e vendido como "curso" (e, muitas vezes, nem sequer é bem organizado). Qualquer pessoa com um computador e acesso à internet pode produzir um curso e vendê-lo.. isso significa que existe muito material porco e mal feito vendido como "curso" na internet - seria um pecado se eles fossem necessários. 
+
+### Este repositório possui cursos pagos?
+As pessoas tendem a associar a qualidade de um curso ao seu preço. Isso faz com que muitos acreditem que materiais gratuitos e de fácil acesso não existem. A realidade, porém, é justamente o oposto, como podemos ver no caso do CS50 – um curso totalmente gratuito de ciência da computação oferecido pela Universidade de Harvard.
+
+### Consigo entrar no mercado de trabalho com os cursos deste repositório?
+Considero-os extremamente úteis para iniciar o aprendizado, especialmente se você for um completo iniciante. Mas a realidade é que, cursos, por si só, não garantem que alguém esteja preparado para o mercado. Isso depende apenas de você, de sua dedicação. 
+
+Possivelmente nenhum curso (seja na Udemy ou em qualquer outra plataforma) terá a densidade de um livro bem feito. E olha que curioso: PDfs desses livros são fácilmente encontrados na internet!  
 
 ### Minhas anotações pessoais são relevantes? 
-__Não__, nem um pouco. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas. 
+__Não__, nem um pouco. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas; eu mantenho elas apenas para backup.
 
 ### Qual a utilidade deste repositório?
 Se você busca aprender Java, você pode usá-lo como base.
@@ -53,22 +63,14 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 [Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)  | William Suane, <br>devDojo | 47h 20min
 [:warning: Maratona JSF](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)  | William Suane, <br>devDojo | 15h 42min
 
-
 <br>
+
+____________________________
 
 ### Conteúdos adicionais 🔍
 + [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS)
 
-+ [Curso de tecnologia, <br> __POR QUE APRENDER__](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs)
++ [Fabio Akita, <br> __Programação para Iniciantes___](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
 
-+ [Robert Silva, <br> __Carreira de TI__](https://www.youtube.com/playlist?list=PLg7nVxv7fa6fosHM9R3RlgCPt7aure5EE)
-
-+ [Elder Moraes, <br> __Java Champions Brasucas__](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) 
-
-</br>
-
-__________________________
-
-#### Progressão
-Detalhes da minha progressão nos cursos podem ser vistos <a href="https://github.com/FireguiQueen/Java/blob/main/other/progress%C3%A3o.md">aqui</a>.
++ [Fabio akita, <br> __Começando aos 40__](https://www.youtube.com/playlist?list=PLjuQ-0yGqLjcFmMkiYvHPraSptrhPlOuK) 
 
