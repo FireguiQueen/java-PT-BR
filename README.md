@@ -1,13 +1,15 @@
 <img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 # Introdução :wave:
-Bem-vindo ao meu repositório de __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta maravilhosa linguagem. Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. 
+Bem-vindo ao meu repositório de __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta maravilhosa linguagem. 
+
+Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. 
 
 <q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilhada.</q> Aproveite! =)
 
 ## Como os cursos foram escolhidos?
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode, Trybe, etc. 
->  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado. Mas a partir de certo ponto, a evolução só será possível através de projetos pessoais que agreguem valor à uma pessoa, seja você ou outros usuários. 
+>  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado. Mas a partir de certo ponto, a evolução só será possível através de projetos pessoais que agreguem valor à uma pessoa, seja a você ou a outros usuários. 
 
 ### Minhas anotações pessoais são relevantes? 
 __Não__, nem um pouco. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas. 
@@ -24,7 +26,8 @@ ___
 + __Conteúdos adicionais:__ Neste tópico, você encontrará playlists e vídeos relacionados a diversos temas do mundo da programação. Os materiais contidos aqui nem sempre abordarão tópicos técnicos.
   
 #### Requisitos
-Não há **nenhum requisito** caso você queira começar em "introdução ao Java", mas é altamente recomendado entender como um computador funciona. 
+Não há **nenhum requisito** caso você queira começar em "introdução ao Java", mas é altamente recomendado entender como um computador funciona e, para isso, vejo também que é necessário aprender conceitos básicos de física.  
+
 Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada em Java (ou em qualquer outra tecnologia).
 
 ___________________
