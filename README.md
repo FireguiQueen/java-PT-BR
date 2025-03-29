@@ -20,7 +20,7 @@ As pessoas tendem a associar a qualidade de um curso ao seu preço. Isso faz com
 #### Consigo entrar no mercado de trabalho com os cursos deste repositório?
 Considero-os extremamente úteis para iniciar o aprendizado, especialmente se você for um completo iniciante. Mas a realidade é que, cursos, por si só, não garantem que alguém esteja preparado para o mercado. Isso depende apenas de você, de sua dedicação. 
 
-### Minhas anotações pessoais são relevantes? 
+#### Minhas anotações pessoais são relevantes? 
 __Não__, nem um pouco. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas; eu mantenho elas apenas para backup.
 
 ### Qual a utilidade deste repositório?
