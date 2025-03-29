@@ -10,16 +10,15 @@ _<q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilha
 ## 🔎 Como os cursos foram escolhidos?
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode, Trybe, etc. 
 
-### Cursos são necessários?
+#### Cursos são necessários?
 __Não__. Um curso nada mais é do que um material didático organizado e vendido como "curso" (e, muitas vezes, nem sequer é bem organizado). Qualquer pessoa com um computador e acesso à internet pode produzir um curso e vendê-lo.. isso significa que existe muito material porco e mal feito vendido como "curso" na internet - seria um pecado se eles fossem necessários. 
 
-### Este repositório possui cursos pagos?
+#### Este repositório possui cursos pagos?
 As pessoas tendem a associar a qualidade de um curso ao seu preço. Isso faz com que muitos acreditem que materiais gratuitos e de fácil acesso não existem. A realidade, porém, é justamente o oposto, como podemos ver no caso do CS50 – um curso totalmente gratuito de ciência da computação oferecido pela Universidade de Harvard.
+> Possivelmente nenhum curso (seja na Udemy ou em qualquer outra plataforma) terá a densidade de um livro bem feito. E olha que curioso: PDfs desses livros são fácilmente encontrados na internet!  
 
-### Consigo entrar no mercado de trabalho com os cursos deste repositório?
+#### Consigo entrar no mercado de trabalho com os cursos deste repositório?
 Considero-os extremamente úteis para iniciar o aprendizado, especialmente se você for um completo iniciante. Mas a realidade é que, cursos, por si só, não garantem que alguém esteja preparado para o mercado. Isso depende apenas de você, de sua dedicação. 
-
-Possivelmente nenhum curso (seja na Udemy ou em qualquer outra plataforma) terá a densidade de um livro bem feito. E olha que curioso: PDfs desses livros são fácilmente encontrados na internet!  
 
 ### Minhas anotações pessoais são relevantes? 
 __Não__, nem um pouco. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas; eu mantenho elas apenas para backup.
@@ -37,8 +36,6 @@ ___
   
 #### Requisitos
 Não há **nenhum requisito** caso você queira começar em "introdução ao Java", mas é altamente recomendado entender como um computador funciona e, para isso, vejo também que é necessário aprender conceitos básicos de física.  
-
-Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada em Java (ou em qualquer outra tecnologia).
 
 ___________________
 
@@ -67,10 +64,10 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 
 ____________________________
 
-### Conteúdos adicionais 🔍
+### 💾 Conteúdos adicionais 
 + [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS)
 
-+ [Fabio Akita, <br> __Programação para Iniciantes___](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
++ [Fabio Akita, <br> __Programação para Iniciantes__](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki)
 
 + [Fabio akita, <br> __Começando aos 40__](https://www.youtube.com/playlist?list=PLjuQ-0yGqLjcFmMkiYvHPraSptrhPlOuK) 
 
