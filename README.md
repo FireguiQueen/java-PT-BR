@@ -30,7 +30,7 @@ ___
 + __Conteúdos adicionais:__ Neste tópico, você encontrará playlists e vídeos relacionados a diversos temas do mundo da programação. Os materiais contidos aqui nem sempre abordarão tópicos técnicos.
   
 #### Requisitos
-Não há **nenhum requisito** caso você queira começar em "introdução ao Java", mas é altamente recomendado entender como um computador funciona e, para isso, vejo também que é necessário aprender conceitos básicos de física.  
+Não há **nenhum requisito** caso você queira começar em "introdução ao Java". 
 
 ___________________
 
