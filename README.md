@@ -10,14 +10,13 @@ _<q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilha
 ## 🔎 Como os cursos foram escolhidos?
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode, Trybe, etc. 
 
-#### Este repositório possui cursos pagos?
+### Este repositório possui cursos pagos?
 Não. 
 
-As pessoas tendem a associar a qualidade de um curso ao seu preço. Isso faz com que muitos acreditem que materiais gratuitos e de fácil acesso não existem. A realidade, porém, é justamente o oposto, como podemos ver no caso do CS50 (curso totalmente gratuito de ciência da computação oferecido pela Universidade de Harvard).
+As pessoas costumam associar a qualidade de um curso ao seu preço, o que leva muitos a acreditarem que materiais gratuitos de qualidade não existem. O CS50, curso gratuito de Harvard, mostra o oposto.
 
-
-#### Consigo entrar no mercado de trabalho com os cursos deste repositório?
-Considero-os extremamente úteis para iniciar o aprendizado, especialmente se você for um completo iniciante. Mas a realidade é que, cursos, por si só, não garantem que alguém esteja preparado para o mercado. Isso depende apenas de você, de sua dedicação. 
+### Consigo entrar no mercado de trabalho com os cursos deste repositório?
+Considero-os extremamente úteis para iniciar o aprendizado, especialmente para iniciantes. Porém, cursos por si só não garantem preparo para o mercado. **Isso depende apenas de você e da sua dedicação.**
 
 ### Qual a utilidade deste repositório?
 Se você busca aprender Java, você pode usá-lo como base.
