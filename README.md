@@ -10,18 +10,14 @@ _<q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilha
 ## 🔎 Como os cursos foram escolhidos?
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode, Trybe, etc. 
 
-#### Cursos são necessários?
-__Não__. Um curso nada mais é do que um material didático organizado e vendido como "curso" (e, muitas vezes, nem sequer é bem organizado). Qualquer pessoa com um computador e acesso à internet pode produzir um curso e vendê-lo.. isso significa que existe muito material porco e mal feito vendido como "curso" na internet - seria um pecado se eles fossem necessários. 
-
 #### Este repositório possui cursos pagos?
-As pessoas tendem a associar a qualidade de um curso ao seu preço. Isso faz com que muitos acreditem que materiais gratuitos e de fácil acesso não existem. A realidade, porém, é justamente o oposto, como podemos ver no caso do CS50 – um curso totalmente gratuito de ciência da computação oferecido pela Universidade de Harvard.
-> Possivelmente nenhum curso (seja na Udemy ou em qualquer outra plataforma) terá a densidade de um livro bem feito. E olha que curioso: PDfs desses livros são fácilmente encontrados na internet!  
+Não. 
+
+As pessoas tendem a associar a qualidade de um curso ao seu preço. Isso faz com que muitos acreditem que materiais gratuitos e de fácil acesso não existem. A realidade, porém, é justamente o oposto, como podemos ver no caso do CS50 (curso totalmente gratuito de ciência da computação oferecido pela Universidade de Harvard).
+
 
 #### Consigo entrar no mercado de trabalho com os cursos deste repositório?
 Considero-os extremamente úteis para iniciar o aprendizado, especialmente se você for um completo iniciante. Mas a realidade é que, cursos, por si só, não garantem que alguém esteja preparado para o mercado. Isso depende apenas de você, de sua dedicação. 
-
-#### Minhas anotações pessoais são relevantes? 
-__Não__, nem um pouco. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas; eu mantenho elas apenas para backup.
 
 ### Qual a utilidade deste repositório?
 Se você busca aprender Java, você pode usá-lo como base.
